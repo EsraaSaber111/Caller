@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

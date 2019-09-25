@@ -1,0 +1,599 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:2:1-18:12
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/1ece68fd8474b1ec65caaaa330a3abf9/AndroidManifest.xml:2:1-15:12
+MERGED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:17:1-33:12
+MERGED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/esraa/.gradle/caches/transforms-2/files-2.1/50dcbfc11e050c793a3b8d8c8a395fff/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/esraa/.gradle/caches/transforms-2/files-2.1/0fd2861bdf4631696ea5c9a44c16b59b/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/esraa/.gradle/caches/transforms-2/files-2.1/c53b3fcfe29ba5e82ec672056a5fdd56/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/30b0744b979ed1166c365b5ea3f00d74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6c3ef6ea905a259d955b9ba00af5fb85/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c73eda5238f369e634ca99941706eed1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/124210e7682b5455a51cdb45b15a6462/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c02fc35006b6601d14be670f6e112a21/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/3d632519b574f7dbfc9905481abc151a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/e52debb249a81b79fd1e5606e2dae5db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/372629811cc5246638a5df2a33182cf2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/34d00fd6bb0ae8268cc645aa179d967b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e697e5040703dde013e80655e65f9f5f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/871e69ea571a519cb7b123c25a9adfc7/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/81c7fb7a5efbff5f7862ce4177e40ef7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/d0d5689b6ae8a936cec9f26daddf21f5/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/52cbe6c18e05286070a0100348ebc547/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e262202f0e69b9eeb1c014bffd64ca08/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/0f2ba0f8446516020dc6c61158bc5533/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/a701ac8a40628b2cb4b1185c5217607f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/a13ad749fbfa6d23cdc2c9e7fe530ef8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6e746d8c01d76b0c70bd5177dfed95ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/aa99f60351b2d00b4b27387dd0585fb6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ec2163c685325ca27a070a5ba8b27d20/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/24f34a70d3aaabc4235d245a5dcdc05a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/2f5f35937e49f7c93db1e3f01ec307a0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/58db750009ddd5d29d762f94339c32f6/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:6:5-72
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:9:5-72
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:6:22-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:10:5-12:47
+	tools:ignore
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:11:9-61
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:13:5-72
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:10:5-72
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:13:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:14:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:15:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:16:22-72
+application
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:18:5-49:19
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:12:5-16:19
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:12:5-16:19
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/1ece68fd8474b1ec65caaaa330a3abf9/AndroidManifest.xml:11:5-13:38
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/1ece68fd8474b1ec65caaaa330a3abf9/AndroidManifest.xml:11:5-13:38
+MERGED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:26:5-31:19
+MERGED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:26:5-31:19
+MERGED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/esraa/.gradle/caches/transforms-2/files-2.1/50dcbfc11e050c793a3b8d8c8a395fff/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/esraa/.gradle/caches/transforms-2/files-2.1/50dcbfc11e050c793a3b8d8c8a395fff/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/esraa/.gradle/caches/transforms-2/files-2.1/c53b3fcfe29ba5e82ec672056a5fdd56/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/esraa/.gradle/caches/transforms-2/files-2.1/c53b3fcfe29ba5e82ec672056a5fdd56/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:23:5-40:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6c3ef6ea905a259d955b9ba00af5fb85/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6c3ef6ea905a259d955b9ba00af5fb85/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c73eda5238f369e634ca99941706eed1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c73eda5238f369e634ca99941706eed1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/124210e7682b5455a51cdb45b15a6462/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/124210e7682b5455a51cdb45b15a6462/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c02fc35006b6601d14be670f6e112a21/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c02fc35006b6601d14be670f6e112a21/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/372629811cc5246638a5df2a33182cf2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/372629811cc5246638a5df2a33182cf2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e697e5040703dde013e80655e65f9f5f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e697e5040703dde013e80655e65f9f5f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/871e69ea571a519cb7b123c25a9adfc7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/871e69ea571a519cb7b123c25a9adfc7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/81c7fb7a5efbff5f7862ce4177e40ef7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/81c7fb7a5efbff5f7862ce4177e40ef7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/52cbe6c18e05286070a0100348ebc547/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/52cbe6c18e05286070a0100348ebc547/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e262202f0e69b9eeb1c014bffd64ca08/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e262202f0e69b9eeb1c014bffd64ca08/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/0f2ba0f8446516020dc6c61158bc5533/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/0f2ba0f8446516020dc6c61158bc5533/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/a701ac8a40628b2cb4b1185c5217607f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/a701ac8a40628b2cb4b1185c5217607f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/a13ad749fbfa6d23cdc2c9e7fe530ef8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/a13ad749fbfa6d23cdc2c9e7fe530ef8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6e746d8c01d76b0c70bd5177dfed95ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6e746d8c01d76b0c70bd5177dfed95ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/aa99f60351b2d00b4b27387dd0585fb6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/aa99f60351b2d00b4b27387dd0585fb6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ec2163c685325ca27a070a5ba8b27d20/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ec2163c685325ca27a070a5ba8b27d20/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/24f34a70d3aaabc4235d245a5dcdc05a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/24f34a70d3aaabc4235d245a5dcdc05a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/2f5f35937e49f7c93db1e3f01ec307a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/2f5f35937e49f7c93db1e3f01ec307a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.esraa.truecaller.History
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:25:19-42
+activity#com.example.esraa.truecaller.Login
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:26:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.example.esraa.truecaller.MainActivity
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:33:19-47
+activity#com.example.esraa.truecaller.ExitActivity
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:34:9-37:62
+	android:autoRemoveFromRecents
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:37:13-59
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:35:13-41
+activity#com.example.esraa.truecaller.MyCustomDialog
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:38:9-42:52
+	android:noHistory
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:40:13-37
+	android:theme
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:42:13-49
+	android:taskAffinity
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:41:13-51
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:39:13-43
+receiver#com.example.esraa.truecaller.PhoneStateListener
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:44:9-48:20
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:44:19-53
+intent-filter#action:name:android.intent.action.PHONE_STATE
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:45:13-47:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml:46:25-73
+uses-sdk
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.wickerlabs:CallLogs:1.09] /home/esraa/.gradle/caches/transforms-2/files-2.1/f2626708b21f03f068ec0e8c92790f29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/1ece68fd8474b1ec65caaaa330a3abf9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/1ece68fd8474b1ec65caaaa330a3abf9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/esraa/.gradle/caches/transforms-2/files-2.1/50dcbfc11e050c793a3b8d8c8a395fff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/esraa/.gradle/caches/transforms-2/files-2.1/50dcbfc11e050c793a3b8d8c8a395fff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/esraa/.gradle/caches/transforms-2/files-2.1/0fd2861bdf4631696ea5c9a44c16b59b/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/esraa/.gradle/caches/transforms-2/files-2.1/0fd2861bdf4631696ea5c9a44c16b59b/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/esraa/.gradle/caches/transforms-2/files-2.1/c53b3fcfe29ba5e82ec672056a5fdd56/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /home/esraa/.gradle/caches/transforms-2/files-2.1/c53b3fcfe29ba5e82ec672056a5fdd56/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/30b0744b979ed1166c365b5ea3f00d74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/30b0744b979ed1166c365b5ea3f00d74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6c3ef6ea905a259d955b9ba00af5fb85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6c3ef6ea905a259d955b9ba00af5fb85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c73eda5238f369e634ca99941706eed1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c73eda5238f369e634ca99941706eed1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/124210e7682b5455a51cdb45b15a6462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/124210e7682b5455a51cdb45b15a6462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c02fc35006b6601d14be670f6e112a21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c02fc35006b6601d14be670f6e112a21/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/3d632519b574f7dbfc9905481abc151a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/3d632519b574f7dbfc9905481abc151a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/e52debb249a81b79fd1e5606e2dae5db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/e52debb249a81b79fd1e5606e2dae5db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/372629811cc5246638a5df2a33182cf2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/372629811cc5246638a5df2a33182cf2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/34d00fd6bb0ae8268cc645aa179d967b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/34d00fd6bb0ae8268cc645aa179d967b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e697e5040703dde013e80655e65f9f5f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e697e5040703dde013e80655e65f9f5f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/871e69ea571a519cb7b123c25a9adfc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/871e69ea571a519cb7b123c25a9adfc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/81c7fb7a5efbff5f7862ce4177e40ef7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/81c7fb7a5efbff5f7862ce4177e40ef7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/d0d5689b6ae8a936cec9f26daddf21f5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/d0d5689b6ae8a936cec9f26daddf21f5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/52cbe6c18e05286070a0100348ebc547/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/52cbe6c18e05286070a0100348ebc547/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e262202f0e69b9eeb1c014bffd64ca08/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e262202f0e69b9eeb1c014bffd64ca08/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/0f2ba0f8446516020dc6c61158bc5533/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/0f2ba0f8446516020dc6c61158bc5533/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/a701ac8a40628b2cb4b1185c5217607f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/a701ac8a40628b2cb4b1185c5217607f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/a13ad749fbfa6d23cdc2c9e7fe530ef8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/a13ad749fbfa6d23cdc2c9e7fe530ef8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6e746d8c01d76b0c70bd5177dfed95ef/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6e746d8c01d76b0c70bd5177dfed95ef/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/aa99f60351b2d00b4b27387dd0585fb6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/aa99f60351b2d00b4b27387dd0585fb6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ec2163c685325ca27a070a5ba8b27d20/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ec2163c685325ca27a070a5ba8b27d20/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/24f34a70d3aaabc4235d245a5dcdc05a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/24f34a70d3aaabc4235d245a5dcdc05a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/2f5f35937e49f7c93db1e3f01ec307a0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/2f5f35937e49f7c93db1e3f01ec307a0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/58db750009ddd5d29d762f94339c32f6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/58db750009ddd5d29d762f94339c32f6/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+		ADDED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+		INJECTED from /home/esraa/AndroidStudioProjects/TrueCaller-20190616T091718Z-001/TrueCaller/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:27:9-30:56
+	android:launchMode
+		ADDED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:29:13-48
+	android:theme
+		ADDED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.karumi:dexter:4.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/038f74cda3b38428debe09f19affa1c7/AndroidManifest.xml:28:13-60
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/4a912b82b619e4d83014aa57f6ad66a6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6c3ef6ea905a259d955b9ba00af5fb85/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6c3ef6ea905a259d955b9ba00af5fb85/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c73eda5238f369e634ca99941706eed1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c73eda5238f369e634ca99941706eed1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/124210e7682b5455a51cdb45b15a6462/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/124210e7682b5455a51cdb45b15a6462/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c02fc35006b6601d14be670f6e112a21/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c02fc35006b6601d14be670f6e112a21/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6e746d8c01d76b0c70bd5177dfed95ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/6e746d8c01d76b0c70bd5177dfed95ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/aa99f60351b2d00b4b27387dd0585fb6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/aa99f60351b2d00b4b27387dd0585fb6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ec2163c685325ca27a070a5ba8b27d20/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ec2163c685325ca27a070a5ba8b27d20/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/24f34a70d3aaabc4235d245a5dcdc05a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/24f34a70d3aaabc4235d245a5dcdc05a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/2f5f35937e49f7c93db1e3f01ec307a0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/2f5f35937e49f7c93db1e3f01ec307a0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9d2336c37d88a3e2535302c06d58cc31/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/23a19f8238bad3106f7c65a6918b86d8/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/esraa/.gradle/caches/transforms-2/files-2.1/0fd2861bdf4631696ea5c9a44c16b59b/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/esraa/.gradle/caches/transforms-2/files-2.1/0fd2861bdf4631696ea5c9a44c16b59b/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/esraa/.gradle/caches/transforms-2/files-2.1/0fd2861bdf4631696ea5c9a44c16b59b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/esraa/.gradle/caches/transforms-2/files-2.1/0fd2861bdf4631696ea5c9a44c16b59b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:11:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/5ce56270c3e3203e55b51f08a3af0888/AndroidManifest.xml:16:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/c75ce936ca1ffe107b25769c8d10521f/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/315b8b306d73ad72bdf04bc545477f6e/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /home/esraa/.gradle/caches/transforms-2/files-2.1/7557bf1026be001afd264ff6b97f3729/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/esraa/.gradle/caches/transforms-2/files-2.1/bf8bfac67f68111ff1219d9e3881b213/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9c742b9132d4f2a4234cfb016512d161/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/1a47ea387e2f1c238a7fd7522712a468/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/9a47dfe00914a6cc68a00a951282b679/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/926198bcb1d822483e8764cb54d8bd92/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/ce6772b1088b0fa7c9f342d916169884/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/esraa/.gradle/caches/transforms-2/files-2.1/e6cc39b581c51296d2890f994b4a9ee5/AndroidManifest.xml:26:13-58
